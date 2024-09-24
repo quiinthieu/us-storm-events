@@ -67,6 +67,7 @@ MarkupSafe==2.1.5
 matplotlib==3.9.2
 matplotlib-inline==0.1.7
 mercantile==1.2.1
+missingno==0.5.2
 mistune==3.0.2
 multipledispatch==1.0.0
 natsort==8.4.0
